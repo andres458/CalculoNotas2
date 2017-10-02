@@ -18,4 +18,6 @@
     <string name="mensajellenarcampos">Existen campos vacios</string>
     <string name="mensajenota">La nota final del semestre es:</string>
     <string name="nota1M">Nota1</string>
+    <string name="Nota2M">Nota2:</string>
+    <string name="DefinitivaM">Defintiva</string>
 </resources>

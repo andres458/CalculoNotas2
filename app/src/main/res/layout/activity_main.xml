@@ -93,7 +93,7 @@
                     android:id="@+id/tv_finalM"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Definitiva: "
+                    android:text="@string/DefinitivaM"
                     android:textColor="@android:color/background_light" />
 
                 <TextView
@@ -356,7 +356,7 @@
                     android:id="@+id/tv_finalP"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Definitiva: "
+                    android:text="@string/DefinitivaM"
                     android:textColor="@android:color/background_light" />
 
                 <TextView
